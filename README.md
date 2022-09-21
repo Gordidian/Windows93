@@ -4,6 +4,4 @@ This is the source code of Windows 93
 
 https://www.windows93.net
 
-Extracted by Gordidian
-
-https://www.youtube.com/c/Gordidian4910
+(THIS IS NOT A PROFESSIONAL SOURCE CODE, I ONLY DID IT FOR FUN)
